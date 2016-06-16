@@ -2,7 +2,7 @@
 from random import randint
 
 """
-    Simple Battleship Game, 4 turns, board size is 5x5
+    Simple Battleship Game, 4 turns, board size is 5x5, 1 battleship
 """
 board = []
 
